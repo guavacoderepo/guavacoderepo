@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guavacoderepo&label=Profile%20views&color=0e75b6&style=flat" alt="guavacoderepo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guavacoderepo" alt="guavacoderepo" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://my-portfolio-gamma-ecru-86.vercel.app/](https://my-portfolio-gamma-ecru-86.vercel.app/)
 
 - 📫 How to reach me **everistusnwogo@gmail.com**
