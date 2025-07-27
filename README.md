@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwogo Everistus</h1>
-<p align="center">💡 AI/ML Engineer | MSc in Artificial Intelligence | Passionate about building real-world intelligent systems</p>
+<p align="center">💡 Artificial Intelligence | Machine Learning | Data Science | Software Engineering</p>
 
 ---
 
